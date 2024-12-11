@@ -14,7 +14,7 @@ export const personalData = {
   linkedIn: "https://www.linkedin.com/in/jefin-john-85996a1a6/",
   twitter: "https://x.com/jefin3273",
   stackOverflow: "https://stackoverflow.com/users/28730169/jefin-john",
-  devUsername: "https://dev.to/jefin3273",
+  devUsername: "jefin3273",
   leetcode: "https://leetcode.com/u/2bz0eEiVLO/",
   resume:
     "https://drive.google.com/file/d/198yPhXyERsC9yIkIfMJGy0mPiKXWTtkM/view?usp=drive_link",
